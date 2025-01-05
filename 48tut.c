@@ -29,7 +29,7 @@ int main()
     // 9
     // Dynamically allocate the character array.
     // take input from user 
-    char * de;
+    char *de;
     int n;
     int p;
     de = (char*) malloc(sizeof(char));
